@@ -1,0 +1,10 @@
+# Not shared
+PAs/
+Quizzes/
+Reading Assignments/
+
+# Vault hub note (links into the rest of the vault)
+_CS5326 Advanced GenAI.md
+
+# macOS
+.DS_Store
