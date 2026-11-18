@@ -9,7 +9,7 @@ textfold: md-lecture-10-neural-scaling-laws-e7cd8c49
 ---
 
 %% nav:start %%
-[[_CS5326 Advanced GenAI|CS5326 Advanced GenAI]] · ← [[Lecture_09_FFNs_Dense_and_MoE]]
+[[_CS5326 Advanced GenAI|CS5326 Advanced GenAI]] · ← [[Lecture_09_FFNs_Dense_and_MoE]] · → [[Lecture_11_Inference_Time_Improvements_Part1]]
 Concepts: [[Scaling Laws]], [[Chinchilla Scaling Laws]], [[Zipf's Law]], [[Power Law]], [[Test-Time Compute]]
 %% nav:end %%
 
